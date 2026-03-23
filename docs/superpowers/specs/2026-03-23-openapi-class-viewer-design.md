@@ -1,4 +1,4 @@
-# FFT Model Explorer — Design Spec
+# OpenAPI Class Viewer — Design Spec
 
 **Date:** 2026-03-23
 **Project:** fft-classes
